@@ -2,19 +2,6 @@
 
 Money Laundry Technical test
 
-## Table of Contents
-
-- [Money Laundry Technical test](#ML-test)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Configuration](#configuration)
-  - [Contributing](#contributing)
-  - [License](#license)
-
-
 ## Prerequisites
 
 Miniconda, python 3.8
