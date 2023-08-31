@@ -1,6 +1,6 @@
 # ML-test
 
-Money Laundry Technical test
+Money Laundry Technical test, anaylsis, feature engineering, model evaluation, results and conclussions are provided in the notebookx
 
 ## Prerequisites
 
